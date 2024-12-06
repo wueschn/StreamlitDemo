@@ -6,7 +6,7 @@ def quadrieren(z1):
 
 st.title("Quadrierer von Mario Wüschner")
 st.header("Stark vereinfacht, aber praktisch!")
-st.image("summe.jpg", width=200)
+st.image("rechner.jpg", width=200)
 
 wert = st.number_input("Geben Sie Ihre Zahl ein!")
 st.write("Ihr gewünschtes Ergebnis, das Quadrat: ",quadrieren(wert))
