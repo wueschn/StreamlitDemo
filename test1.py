@@ -4,7 +4,7 @@ def quadrieren(z1):
     ergebnis = z1 ** 2
     return ergebnis
 
-st.title("Quadrierer von Mario Wüschner")
+st.title("Quadrierer von Mario W.")
 st.header("Stark vereinfacht, aber praktisch!")
 st.image("rechner.jpg", width=200)
 
